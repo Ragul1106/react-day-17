@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Navbar from './components/Navbar';
+import Navbar from './components/NavBar';
 import Home from './components/Home';
 import IntroDynamicRouting from './components/Task1';
 import UserDetail from './components/Task2-3-4';
