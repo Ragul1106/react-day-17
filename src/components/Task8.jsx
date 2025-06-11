@@ -61,7 +61,7 @@ const ProgrammaticNavigation = () => {
 
         <input
           type="text"
-          placeholder="Enter User Name (for multi-param)"
+          placeholder="Enter User Name "
           value={userNameInput}
           onChange={(e) => setUserNameInput(e.target.value)}
           className="form-control form-control-lg" 

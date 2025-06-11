@@ -6,7 +6,7 @@ const UserProfileWithNested = () => {
 
   return (
     <div className="container p-4 bg-white rounded shadow-sm mx-auto my-4">
-      <h2 className="mb-3 h2 text-dark text-center">User Profile (Parent)</h2>
+      <h2 className="mb-3 h2 text-dark text-center">User Profile</h2>
       <p className="text-body fs-5 text-center mb-4">
         Viewing profile for User ID: <span className="fw-bold text-primary">{id}</span>
       </p>
